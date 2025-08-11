@@ -11,7 +11,7 @@ Hi! I'm a beginner learning **Git** and **GitHub** as I work through my **Cloud 
 ## 🧠 What I'm Learning
 
 - Git & GitHub basics
-- Cloud fundamentals (AWS, Azure, GCP)
+- Cloud fundamentals (AWS & Azure)
 - Version control and collaboration
 
 ## 📅 Started on
